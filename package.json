@@ -1,6 +1,7 @@
 {
   "name": "bluey_album",
   "private": true,
+  "homepage": "https://bl4zt3r.github.io/album_bluey/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
